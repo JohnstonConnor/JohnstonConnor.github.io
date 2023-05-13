@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Connor Johnston CV.pdf", title: "CV"}
+  - {file: "connorCV.pdf", title: "CV"}
   - {title: "Contact"}
   - {title: "Lab", url: https://www.ise.ufl.edu/cao/}
 
