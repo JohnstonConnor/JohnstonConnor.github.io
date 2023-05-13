@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: https://JohnstonConnor.github.io/connorCV.pdf}
-  - {title: "Contact"}
   - {title: "Lab", url: https://www.ise.ufl.edu/cao/}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
